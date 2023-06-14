@@ -1,7 +1,6 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import PropTypes from "prop-types";
 import { MyMain } from "./index.styles";
-import SideMenu from "../SideMenu/SideMenu";
 import MainMenu from "../MainMenu/MainMenu";
 
 function Main(props) {

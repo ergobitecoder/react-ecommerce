@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useContext } from "react";
+import React, { useEffect } from "react";
 import ProductDetails_c from "../../stories/containers/ProductDetails_c/ProductDetails";
 
 const ProductDetails = () => {

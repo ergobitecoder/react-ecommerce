@@ -1,7 +1,6 @@
 import { Toolbar } from '@mui/material';
 import React, { useEffect, useState } from 'react'
 import { getCategoryData } from '../../../services/apis/menu';
-import HomeSlider from '../HomeSlider/HomeSlider';
 import ReviewSlider from '../ReviewSlider/ReviewSlider';
 import { MyStory, MyStoryData, MyStoryImage, NumberCircle, useStyles } from "./index.styles";
 import URL from '../../../img-url.config';

@@ -1,5 +1,5 @@
 import React from 'react'
-import { HomeBanner, HomeBannerParent, SloganBanner, useStyles } from "./index.styles";
+import { HomeBanner, HomeBannerParent, useStyles } from "./index.styles";
 
 const ContactPageBanner = (props) => {
     const classes = useStyles(props);

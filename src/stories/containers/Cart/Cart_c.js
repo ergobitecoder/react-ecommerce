@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useRef, useState } from "react";
+import React, { useContext, useState } from "react";
 import PropTypes from "prop-types";
 import {  Item, MyCartParent, useStyles } from "./index.styles";
 import {  Grid, Dialog, DialogContent, DialogTitle } from "@mui/material";

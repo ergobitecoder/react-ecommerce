@@ -8,7 +8,7 @@ import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import {  Paper } from '@mui/material';
-import { getMasterUsersData, saveUser } from '../../services/apis/auth';
+import { saveUser } from '../../services/apis/auth';
 import { Link, useNavigate } from 'react-router-dom';
 import { useState } from 'react';
 import { validateEmail } from '../../services/validations/email';

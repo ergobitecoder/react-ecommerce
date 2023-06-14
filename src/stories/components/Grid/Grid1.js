@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect } from "react";
+import React, { useState } from "react";
 import PropTypes from "prop-types";
 import { MyStyledGrid, StyledTitle } from "./index.styles";
 import Box from "@mui/material/Box";
